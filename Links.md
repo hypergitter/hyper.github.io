@@ -20,6 +20,9 @@ header-img: "img/autumn.jpg"
 
 [UCSD -- Center for NMR Spectroscopy and imaging of Porteins](http://nmrresource.ucsd.edu/)
 
+[ISMAR -- International Society of Magnetic Resonance](https://www.weizmann.ac.il/ISMAR/)
+
+[MIT > Griffin (Bob) Group](https://griffingroup.mit.edu/)
 
 ### Journals
 
