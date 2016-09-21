@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 description: "A nice guy I think"
 header-img: "img/plane.jpg"
 ---
@@ -10,11 +10,15 @@ header-img: "img/plane.jpg"
 </center>
 
 
-My Name is Jian Wang. If you want to find me, you will find me.
+
+My Name is Jian Wang.
+
+ If you want to find me, you will find me.
 
 几分执着，几分专注，几分不羁。这就是我。
 
 ——Jian
+
 
 
 > Live long and prosper
