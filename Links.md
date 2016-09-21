@@ -18,6 +18,8 @@ header-img: "img/autumn.jpg"
 
 [Pascal-man](http://www.pascal-man.com/) -- ***a site focused on solid state NMR by Pascal Man***
 
+[UCSD -- Center for NMR Spectroscopy and imaging of Porteins](http://nmrresource.ucsd.edu/)
+
 
 ### Journals
 
