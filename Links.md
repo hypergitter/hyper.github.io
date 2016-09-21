@@ -8,10 +8,17 @@ header-img: "img/autumn.jpg"
 
 ### Links
 
-[AQicn](http://aqicn.org/city/) PM2.5
+[MIT > Department of Chemistry Instrumentation Facility](http://web.mit.edu/speclab/www/index.html) 
+[Stanford > Department of Chemistry > Cegelski Lab](http://cegelskilab.stanford.edu/index.html) 
 
-###References
-[jekyll](https://jekyllrb.com/)jekyll
+
+### Journals
+
+[eMagRes](http://onlinelibrary.wiley.com/book/10.1002/9780470034590/topics)
+
+### References
+
+[jekyll](https://jekyllrb.com/)
 
 ### Rule 
 
