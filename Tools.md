@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Useful links"
-description: "我的小小工具箱"
+title: "Links"
+description: "Keep Hungry Keep Foolish"
 header-img: "img/autumn.jpg"
 ---
 
