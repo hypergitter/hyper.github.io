@@ -16,7 +16,7 @@ header-img: "img/autumn.jpg"
 
 [University of Minnesota > Department of Chemistry/Biochemistry/Molecular Biology/Biophysics > Veglia Group](http://www1.chem.umn.edu/groups/veglia/main.htm) 
 
-[Pascal-man](http://www.pascal-man.com/)-- site focused on solid state NMR by Pascal Man
+[Pascal-man](http://www.pascal-man.com/) -- *a site focused on solid state NMR by Pascal Man*
 
 
 ### Journals
@@ -29,7 +29,7 @@ header-img: "img/autumn.jpg"
 
 [NMR on OS X](http://scottlab.ucsc.edu/xtal/wiki/index.php/NMR_on_OS_X)
 
-[Macs in Chemistry](http://www.macinchem.org/) -- a resource for chemists using Apple Macintosh computers and iOS.
+[Macs in Chemistry](http://www.macinchem.org/) -- *a resource for chemists using Apple Macintosh computers and iOS.*
 
 ### References
 
