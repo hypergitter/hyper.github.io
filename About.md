@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "A nice guy"
+description: "A nice guy I think"
 header-img: "img/plane.jpg"
 ---
 
