@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 description: "A nice guy I think"
 header-img: "img/plane.jpg"
 ---
@@ -9,8 +9,8 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-
-
+  
+  
 My Name is Jian Wang.
 
  If you want to find me, you will find me.
@@ -21,8 +21,9 @@ My Name is Jian Wang.
 
 
 
-> Live long and prosper
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
 </center>
+
+> Live long and prosper
