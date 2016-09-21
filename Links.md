@@ -1,18 +1,22 @@
 ---
 layout: page
 title: "Links"
-description: "Keep Hungry Keep Foolish"
+description: "Keep Hungry, Keep Foolish"
 header-img: "img/autumn.jpg"
 ---
 
 
-### Links
+### Groups and Organization
 
 [UM > Ramas](http://rams.biop.lsa.umich.edu/) 
 
 [MIT > Department of Chemistry Instrumentation Facility](http://web.mit.edu/speclab/www/index.html) 
 
 [Stanford > Department of Chemistry > Cegelski Lab](http://cegelskilab.stanford.edu/index.html) 
+
+[University of Minnesota > Department of Chemistry/Biochemistry/Molecular Biology/Biophysics > Veglia Group](http://www1.chem.umn.edu/groups/veglia/main.htm) 
+
+[Pascal-man](http://www.pascal-man.com/)-- site focused on solid state NMR by Pascal Man
 
 
 ### Journals
@@ -21,7 +25,15 @@ header-img: "img/autumn.jpg"
 
 [eMagRes](http://onlinelibrary.wiley.com/book/10.1002/9780470034590/topics)
 
+### Softwares
+
+[NMR on OS X](http://scottlab.ucsc.edu/xtal/wiki/index.php/NMR_on_OS_X)
+
+[Macs in Chemistry](http://www.macinchem.org/) -- a resource for chemists using Apple Macintosh computers and iOS.
+
 ### References
+
+[NMR WiKi](http://nmrwiki.org/wiki/index.php?title=Main_Page)
 
 [jekyll](https://jekyllrb.com/)
 
