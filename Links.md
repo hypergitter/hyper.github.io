@@ -17,6 +17,8 @@ header-img: "img/autumn.jpg"
 
 ### Journals
 
+[Wiley Online Library > NMR Spectroscopy / MRI / Imaging](http://onlinelibrary.wiley.com/subject/code/CH17/titles)
+
 [eMagRes](http://onlinelibrary.wiley.com/book/10.1002/9780470034590/topics)
 
 ### References
