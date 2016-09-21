@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Travel"
+title: "gallery"
 description: "路与风景"
 header-img: "img/plane2.jpg"
 ---
